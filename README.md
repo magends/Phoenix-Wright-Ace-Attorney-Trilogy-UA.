@@ -30,3 +30,13 @@ Artem 'RippeR' Zadorozhnii з Unlocteam — за величезну техніч
 Discord: sanitaizer2
 
 📸 Скріншоти 
+<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/6e27cd13-83df-4878-8101-47e7f4d9b3cd" />
+
+<img width="1366" height="768" alt="imsage" src="https://github.com/user-attachments/assets/fd311d6b-5563-480e-924f-c4f5551dd73c" />
+
+<img width="1366" height="768" alt="imagse" src="https://github.com/user-attachments/assets/64686c61-8e11-41c7-b27f-6cb8ea45364a" />
+
+
+
+
+
