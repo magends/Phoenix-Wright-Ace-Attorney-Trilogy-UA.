@@ -1,5 +1,4 @@
 # Ентузіастський українізатор гри про адвоката
-# Технічні проблеми, на разі переклад чомусь не працює
 
 ⚖️ Phoenix Wright: Ace Attorney Trilogy — Українська локалізація
 Напевно, забагато часу пройшло без української мови в грі про адвоката з їжаком на голові. Саме тому, на голому ентузіазмі та за багацько безсонних ночей, презентую вам початок перекладу легендарної трилогії!
@@ -24,17 +23,25 @@ Artem 'RippeR' Zadorozhnii з Unlocteam — за величезну техніч
 У двох місцях може зникати спрайт персонажа на 1-2 текстових вікна.
 Якщо ви знаєте, як це вилікувати, або хочете допомогти з тестуванням — буду вдячний за фідбек!
 
+Додатково: деякий бардак в налаштуваннях, написи можуть бути там, де вони бути не мають
+
 📢 Хочете приєднатися?
 Проєкт великий, і допомога ніколи не буде зайвою! Якщо ви перекладач, художник або технічний спеціаліст пишіть мені:
 
 Discord: sanitaizer2
 
 📸 Скріншоти 
-<img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/6e27cd13-83df-4878-8101-47e7f4d9b3cd" />
+<img width="1274" height="696" alt="image" src="https://github.com/user-attachments/assets/69f88af3-cde7-4d9e-8dbc-610dac3c7091" />
 
-<img width="1366" height="768" alt="imsage" src="https://github.com/user-attachments/assets/fd311d6b-5563-480e-924f-c4f5551dd73c" />
+<img width="1279" height="695" alt="image" src="https://github.com/user-attachments/assets/579ba515-cd82-40f9-a1ff-1e7e9ce4a13f" />
 
-<img width="1366" height="768" alt="imagse" src="https://github.com/user-attachments/assets/64686c61-8e11-41c7-b27f-6cb8ea45364a" />
+<img width="1366" height="768" alt="image1" src="https://github.com/user-attachments/assets/e6719b94-59d2-469b-88b5-867b654fedfb" />
+
+Версія 1.0: додано переклад першого епізоду першої гри.
+
+
+
+
 
 
 
