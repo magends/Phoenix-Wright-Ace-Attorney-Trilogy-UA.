@@ -32,9 +32,11 @@ Discord: sanitaizer2
 
 📸 Скріншоти
 
-<img width="1279" height="695" alt="image" src="https://github.com/user-attachments/assets/579ba515-cd82-40f9-a1ff-1e7e9ce4a13f" />
-
 <img width="1366" height="768" alt="image1" src="https://github.com/user-attachments/assets/e6719b94-59d2-469b-88b5-867b654fedfb" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d4acab79-442a-4a3f-9085-183d7cfdb62b" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c6719d1a-2c22-45b8-8b51-3e487dd08055" />
 
 Версія 1.0: додано переклад першого епізоду першої гри.
 Версія 1.01: вичищено більшість русизмів від дідька, додано коми в пропущених місцях.
