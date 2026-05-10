@@ -38,6 +38,7 @@ Discord: sanitaizer2
 <img width="1366" height="768" alt="image1" src="https://github.com/user-attachments/assets/e6719b94-59d2-469b-88b5-867b654fedfb" />
 
 Версія 1.0: додано переклад першого епізоду першої гри.
+Версія 1.01: вичищено більшість русизмів від дідька, додано коми в пропущених місцях.
 
 
 
