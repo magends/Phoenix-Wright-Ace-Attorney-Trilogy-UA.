@@ -37,7 +37,7 @@ veydzh3r — за форк до утиліти, що відкрила можли
 Denys Bakeman — За найчудовішу локалізацію спрайтів, справжній живчик!
 
 funkkiy — за утиліту (хоч і трохи вередливу) з часів царя гороха.
-(https://github.com/funkkiy/GSTools)[Утиліта]
+[https://github.com/funkkiy/GSTools](Утиліта)
 
 Artem 'RippeR' Zadorozhnii з UnlocTeam — за величезну технічну допомогу з перекладом спрайтів Guilty / Not Guilty.
 
